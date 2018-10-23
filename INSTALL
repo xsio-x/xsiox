@@ -1,0 +1,9 @@
+Building Xsiox
+
+See doc/readme-qt.rst for instructions on building Xsiox QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Xsiox.
+
+See doc/build-*.txt for instructions on building xsioxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Xsiox.
